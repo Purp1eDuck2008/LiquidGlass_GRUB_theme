@@ -42,3 +42,11 @@ sudo update-grub
 ```
 
 Reboot your system and enjoy the new interface.
+
+---
+
+## Screenshot:
+
+<img width="3072" height="1920" alt="background" src="https://github.com/user-attachments/assets/d28ef926-0a5a-47bb-a7ac-21a8e8a74d2b" />
+
+---
