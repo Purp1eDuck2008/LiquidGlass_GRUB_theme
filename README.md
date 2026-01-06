@@ -36,7 +36,7 @@ sudo nano /etc/default/grub
 GRUB_THEME="/boot/grub/themes/LiquidGlass/theme.txt"
 ```
 
-4.Update GRUB:
+4. Update GRUB:
 
 ```bash
 sudo update-grub
