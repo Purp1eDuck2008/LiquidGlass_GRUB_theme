@@ -56,6 +56,9 @@ Reboot your system and enjoy the new interface.
 
 <img width="1024" alt="LiquidGlass Dark Theme" src="https://github.com/user-attachments/assets/6b308067-73f8-4eca-8a71-1e6231fc05c1" />
 
+Icons from: icons8.com
+
+---
 
 ## Contributing
 
