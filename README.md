@@ -22,3 +22,23 @@
 
 ```bash
 sudo cp -r LiquidGlass /boot/grub/themes/
+```
+2. Edit the GRUB configuration:
+
+```bash
+sudo nano /etc/default/grub
+```
+
+3. Add or modify the line:
+
+```bash
+GRUB_THEME="/boot/grub/themes/LiquidGlass/theme.txt"
+```
+
+4.Update GRUB:
+
+```bash
+sudo update-grub
+```
+
+Reboot your system and enjoy the new interface.
