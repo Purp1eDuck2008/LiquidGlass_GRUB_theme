@@ -12,7 +12,8 @@
 - Light and dark theme support  
 - Easy installation and customization  
 - Smooth hover animations  
-- Compatible with GRUB 2  
+- Compatible with GRUB 2
+- 16/10
 
 ---
 
